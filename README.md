@@ -11,3 +11,7 @@ staging/test env screenshots with production.
 treashold can be specified of ration between pixels which diff and all pixels to raise fail assert
 
 build on some sort of unittest library
+
+UPDATE
+===========
+actually same thing already exists and it's here: https://github.com/bfirsh/needle
